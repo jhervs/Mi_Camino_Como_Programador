@@ -13,6 +13,10 @@ tambien para corregir y organizar ideas. Asi que, espero
 que el repositorio y los documentos abjuntado en cada carpeta 
 les sea de ayuda o de orientacion. 😊🩵✨
 
+Cada carpeta de niveles cuenta con el documento de 
+la practica que hice y un documento PDF de los retos
+que segui para hacer la practica.💪✨
+
 Usare este medio como un blog donde subire mis avences y
 dando mi razonamiento sobre cada leccion, como todos estoy
 aprendiendo, asi que cualquier correccion o consejo, estare
