@@ -1,23 +1,66 @@
-# Mi camino como programador✨💻🩵
-Aquí comparto mi avance y proyectos de programación.
+# 🚀 Mi Camino como Programador
 
-Presentare un poco la manera en que estoy estudiando 🤓☝️.
+👋 ¡Hola! Soy **Jheremy**, estudiante de Ingeniería Informática en la UAX 🇪🇸  
+Este repositorio es mi espacio de práctica, estudio y crecimiento.  
+Aquí voy documentando todo lo que aprendo mientras me preparo para la universidad  
+y para lograr mi primer trabajo como desarrollador 🧑‍💻💙
+Estoy aprendiendo desde cero, practicando Python 🐍 y soñando con ser Backend Dev 💻✨
 
-Estoy realizado el curso de python desde cero
-de Brais Moure, y estare subiendo mis avances en este
-repositorio.
+---
 
-Tambien, uso chatGPT para correcciones y tambien para
-generar en base al curso, retos para practicar lo aprendido, 
-tambien para corregir y organizar ideas. Asi que, espero
-que el repositorio y los documentos abjuntado en cada carpeta 
-les sea de ayuda o de orientacion. 😊🩵✨
+## 🎯 Objetivos del Repositorio
 
-Cada carpeta de niveles cuenta con el documento de 
-la practica que hice y un documento PDF de los retos
-que segui para hacer la practica.💪✨
+✅ Aprender Python paso a paso  
+✅ Desarrollar la lógica de programación  
+✅ Organizar mis avances por niveles  
+✅ Crear mi portafolio profesional  
+✅ Compartir mi proceso de forma transparente y real  
 
-Usare este medio como un blog donde subire mis avences y
-dando mi razonamiento sobre cada leccion, como todos estoy
-aprendiendo, asi que cualquier correccion o consejo, estare
-encantado de leerlo. 😊
+---
+
+## 🧠 Avances por Niveles
+
+| Nivel    | Estado        | Contenido Clave                                  |
+|----------|---------------|--------------------------------------------------|
+| Nivel 1  | ✅ Completado  | Fundamentos: `print()`, tipos de datos, `input()`, concatenación |
+| Nivel 2  | ✅ Completado  | Operaciones, comparaciones, `type()`, lógica booleana |
+| Nivel 3  | ✅ Completado  | Condicionales `if`, `elif`, `else`, validaciones |
+| Nivel 4  | 🔄 En progreso | Bucles `for`, `while`, listas, repetición y práctica |
+
+---
+
+## 📁 Estructura del Repositorio
+
+
+Cada carpeta incluye los ejercicios realizados y explicaciones con comentarios 📝
+junto con archivos PDF que les puede servir para realizar los retos que hice. 😊
+---
+
+## 🛠️ Tecnologías que estoy usando
+
+- 🐍 Python (principal lenguaje de práctica)
+- 💻 Visual Studio Code
+- 📄 Google Docs (para mi cuaderno digital)
+- 🌐 GitHub (portafolio y control de versiones)
+
+---
+
+## 🌟 Frase motivadora
+
+> _“Cada línea de código que escribo es una semilla de mi futuro como desarrollador.”_  
+> **By Jheremy & ChatGPT 💻🩵**
+
+---
+
+## 📫 Conectemos
+
+- 🌍 Actualmente: Madrid, España
+- 🎓 Estudiante en la UAX
+- 📧 Contacto: *[jheremy81945@gmail.com]*  
+- 📌 Portafolio: *En construcción...*
+
+---
+
+✨ ¡Gracias por acompañarme en este camino!  
+Este repositorio es mi forma de compartir que **todos podemos aprender a programar**, paso a paso y con amor por el proceso 🌱💙
+
