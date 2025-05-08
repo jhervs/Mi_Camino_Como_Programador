@@ -117,7 +117,7 @@ Inserta el numero 15 en la posicion 2
 de la lista [10, 20, 30, 40, 50].
 """
 
-list_2.insert(1, 15) #funcion insert()
+list_2.insert(2, 15) #funcion insert()
 
 #imprime la lista (list_2)
 print(list_2) #print([10, 15, 20, 30, 40, 50])
@@ -200,7 +200,7 @@ funcion pop()
 
 #Correccion
 
-my_pop = list_0.pop(4) #variable type<'int'>, funcion pop()
+my_pop = list_0.pop() #variable type<'int'>, funcion pop()
 
 #imprime los valores de list_0
 print(list_0) #print([1, 2, 3, 4, 5])
@@ -389,4 +389,33 @@ uno mas, para que te de el tercer elemento [0 : 3].
 
 Por los momentos esa es mi conlusion antes de
 hacer la correcion de todo.
+"""
+
+#Correccion
+
+""" 
+Solo me pedian los elementos desde
+el valor 1 al 3, lo cual a final da
+dos elementos, aun que parte de mi
+conclusion esta bien, pero lo que no
+no esta bien es el resultado que pense
+que me pedian.
+"""
+
+my_list = [10, 20, 30, 40, 50] #variable type <'list'>
+
+#variable divisora 
+my_sublist = my_list[1 : 3] #variable type <'list'>
+
+#imprime los elementos de la variable my_sublist
+print(my_sublist) #print([20, 30])
+
+""" 
+Esto es lo que me pedian, pensaba 
+que el enunciado buscaba un poco
+ponernos a prueba sobre como los
+lenguajes cuentan los elementos que 
+es a partir del "0" y no del "1",
+pero era tal cual como lo pedia en el 
+enunciado del ejercicio.
 """
