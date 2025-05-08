@@ -36,6 +36,24 @@ Cada carpeta incluye los ejercicios realizados y explicaciones con comentarios �
 junto con archivos PDF que les puede servir para realizar los retos que hice. 😊
 ---
 
+## 🧾 ¿Qué encontrarás aquí?
+
+📚 **Ejercicios prácticos**: organizados por niveles (variables, condicionales, listas, bucles, etc.)  
+📦 **Proyectos pequeños** que surjan durante mi formación  
+🎯 **Notas explicativas** y mis razonamientos sobre cada reto  
+📘 **Cuaderno de progreso** tipo diario de aprendizaje digital  
+🧩 **Ejercicios del curso de Python desde cero de MoureDev**
+
+---
+
+## 🎓 Curso: Python Desde Cero – by MoureDev
+
+Estoy haciendo el curso en mouredevpro de [Python desde cero 🐍](https://github.com/mouredev/retos-programacion-python) y comparto mi avance, ejercicios y apuntes en esta carpeta:
+
+📂 [`/Python_Desde_Cero_(Curso)`](https://github.com/jhervs/mi_camino_como_programador/tree/main/Python_Desde_Cero_(Curso))  
+Allí subo los retos propuestos, mis soluciones y reflexiones. Cada avance está comentado y versionado 📝
+
+
 ## 🛠️ Tecnologías que estoy usando
 
 - 🐍 Python (principal lenguaje de práctica)
