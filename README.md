@@ -1,6 +1,6 @@
 # 🚀 Mi Camino como Programador
 
-<img src="banner_1.png" alt="Mi camino como programador" width="70%"/>
+<img src="banner_1.png" alt="Mi camino como programador" width="100%"/>
 
 
 👋 ¡Hola! Soy **Jheremy**, estudiante de Ingeniería Informática en la UAX 🇪🇸  
