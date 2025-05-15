@@ -1,5 +1,10 @@
 # 🚀 Mi Camino como Programador
 
+<p align="center">
+  <img src="banner.png" alt="Banner de bienvenida" />
+</p>
+
+
 👋 ¡Hola! Soy **Jheremy**, estudiante de Ingeniería Informática en la UAX 🇪🇸  
 Este repositorio es mi espacio de práctica, estudio y crecimiento.  
 Aquí voy documentando todo lo que aprendo mientras me preparo para la universidad  
